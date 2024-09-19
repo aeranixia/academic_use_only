@@ -1,18 +1,3 @@
-
-<!doctype html>
-<html lang="ko">
-<head>
-<meta charset="utf-8" />
-<title>기본 커리큘럼</title>
-<style>
-#logo {
-    max-width: 100%;
-}
-.course {
-    font-size: 14px;
-}
-</style>
-</head>
 <body>
 <h1>크롤링 테스트 페이지 (커리큘럼)</h1>
 
